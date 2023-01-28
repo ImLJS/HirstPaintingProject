@@ -1,4 +1,3 @@
-# HirstPaintingProject
-A Damien Hirst Spot Painting using Python - Turtle Graphics
+# Hirst Painting Project
 
 A Hirst Spot Painting made using Python and Turtle Graphics and Colorgram Library
